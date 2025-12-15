@@ -1,0 +1,26 @@
+[project]
+name = "cbsa-market-analytics"
+version = "0.1.0"
+description = "Real estate market analytics dashboard to evaluate a CBSA's performance relative to the broader market."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dash>=3.0.4",
+    "plotly>=6.1.2",
+    "flask-caching>=2.3.1",
+    "pandas>=2.3.0",
+    "numpy>=2.3.1",
+    "geopandas>=1.1.1",
+    "shapely>=2.1.1",
+    "pyarrow>=20.0.0",
+    "requests>=2.32.4",
+    "python-dotenv>=1.1.1",
+    "gunicorn>=21.0.0",
+    "flask-compress>=1.14",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]

@@ -1,0 +1,21 @@
+# CBSA Market Analytics Dashboard
+
+# Dashboard
+dash>=3.0.4
+plotly>=6.1.2
+flask-caching>=2.3.1
+
+# Production
+gunicorn>=21.0.0
+flask-compress>=1.14
+
+# Data processing
+pandas>=2.3.0
+numpy>=2.3.1
+geopandas>=1.1.1
+shapely>=2.1.1
+pyarrow>=20.0.0
+
+# API
+requests>=2.32.4
+python-dotenv>=1.1.1
