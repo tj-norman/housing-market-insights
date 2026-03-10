@@ -23,7 +23,7 @@ Analysis through September 2025 reveals housing operating under structural suppl
 - **Metropolitan Premium:** Metro areas command a structural 30% price premium ($356K vs $273K) over micropolitan markets, driven by land value and job quality
 - **Emerging Tech Markets:** Austin, Nashville, and Charlotte delivered strong appreciation by decoupling from national trends through diversified tech/healthcare employment
 - **Supply Shock:** Active listings remain 70% below 2019 baselines in Northeast metros (Bridgeport -72%, Hartford -70%), indicating rate-induced lock-in effects
-- **Inventory Concentration Bias:** Six states (CA, TX, FL, PA, OH, NC) control 52% of national inventory despite representing 22% of CBSAs, skewing headline aggregate metrics
+- **Inventory Concentration Bias:** Five states (FL, TX, NC, GA, AZ) control 47% of national metro inventories despite representing 22% of CBSAs, skewing headline aggregate metrics
 
 **Next-Gen Innovation Hubs**<br>
 Emerging metros like Charlotte represent the new frontier of sustainable growth. Delivering 18-24% appreciation in the post-pandemic boom, these metros have benefitted from strong sector fundamentals, including robust job growth and diversified economic bases. This is in stark contrast to legacy tech markets like San Francisco which have experienced constricted price appreciation (<1% annually) due to affordability constraints and growing inventories. 
@@ -58,9 +58,9 @@ Cape Coral and Myrtle Beach emerged as pandemic winners, with inventory dropping
 
 ![Metropolitan Premium](assets/images/metro_premium.png)
 
-**Inventory Concentration Bias**: Census region analysis reveals an 83% price differential between West ($500K median) and Midwest ($274K median), dwarfing the 18% coastal-interior premium. Six states (CA, TX, FL, PA, OH, NC) control 52% of national inventory despite representing 22% of CBSAs, creating noteworthy skew in headline aggregate metrics. California alone contributes 15% of inventory from just 27 markets, while Ohio's 49 markets contribute only 5%. National aggregate metrics disproportionately reflect California, Texas, and Florida dynamics while systematically underrepresenting patterns in the broader market.
+**Inventory Concentration Bias**: Five states (FL, TX, NC, GA, AZ) control 47% of national metropolitan inventories despite representing just 22% of CBSAs, creating noteworthy skew in headline aggregate metrics. Florida alone contributes 18% of national metro inventories from 21 markets. While these states have all surged back above pre-pandemic levels, the rest of the country lags behind due to supply-side constraints such as burdensome regulations and elevated input costs.
 
-![Aggregate Skew](assets/images/market_insights/state_inventory_concentration.png)
+![Aggregate Skew](assets/images/k_shaped_recovery.png)
 
 ## Market Opportunity Thesis
 
@@ -71,7 +71,7 @@ Cape Coral and Myrtle Beach emerged as pandemic winners, with inventory dropping
 Markets with diversified technology and healthcare employment bases are decoupling from national trends, averaging 2-3% higher YoY appreciation than national benchmarks. Clustering analysis reveals that economic base quality, specifically wage growth relative to housing costs, separates resilient markets from those experiencing demand erosion. Unlike legacy tech markets facing affordability ceilings, these next-generation hubs demonstrate sustained absorption without Silicon Valley valuations.
 
 **Raleigh, NC** exemplifies this pattern, posting 4.2% YoY appreciation despite the broader national cooling. This positions next-gen knowledge hubs as strong medium-term opportunities where income fundamentals justify current valuations.<br>
-*Thesis Risk: Affordability compression if wage growth decelerates, though downside remains limited compared to hospitality-driven markets*
+*Thesis Risk: Affordability compression if wage growth decelerates, though downside remains limited compared to hospitality-driven markets.*
 
 ### Value Opportunities in Rust Belt Revitalization
 
